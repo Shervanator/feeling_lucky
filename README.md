@@ -4,6 +4,8 @@ Hate NoMethodErrors? Are you feeling lucky?
 
 This gem will make spelling methods correctly a thing of the past. We are truly in the future now!
 
+I highly recommend this gem for production enviroments, why should a spelling mistake avoid users from using your app? 
+
 ## Installation
 
 Add this line to your application's Gemfile:
